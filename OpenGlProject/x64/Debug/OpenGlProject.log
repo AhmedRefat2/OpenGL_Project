@@ -1,0 +1,19 @@
+﻿  openGlProject.cpp
+E:\Graphics\OpenGlProject\OpenGlProject\openGlProject.cpp(142,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Graphics\OpenGlProject\OpenGlProject\openGlProject.cpp(142,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Graphics\OpenGlProject\OpenGlProject\openGlProject.cpp(147,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Graphics\OpenGlProject\OpenGlProject\openGlProject.cpp(148,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Graphics\OpenGlProject\OpenGlProject\openGlProject.cpp(149,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Graphics\OpenGlProject\OpenGlProject\openGlProject.cpp(149,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Graphics\OpenGlProject\OpenGlProject\openGlProject.cpp(255,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Graphics\OpenGlProject\OpenGlProject\openGlProject.cpp(278,68): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+E:\Graphics\OpenGlProject\OpenGlProject\openGlProject.cpp(278,68): warning C4244:         with
+E:\Graphics\OpenGlProject\OpenGlProject\openGlProject.cpp(278,68): warning C4244:         [
+E:\Graphics\OpenGlProject\OpenGlProject\openGlProject.cpp(278,68): warning C4244:             T=float
+E:\Graphics\OpenGlProject\OpenGlProject\openGlProject.cpp(278,68): warning C4244:         ]
+E:\Graphics\OpenGlProject\OpenGlProject\openGlProject.cpp(282,32): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+E:\Graphics\OpenGlProject\OpenGlProject\openGlProject.cpp(282,32): warning C4244:         with
+E:\Graphics\OpenGlProject\OpenGlProject\openGlProject.cpp(282,32): warning C4244:         [
+E:\Graphics\OpenGlProject\OpenGlProject\openGlProject.cpp(282,32): warning C4244:             T=float
+E:\Graphics\OpenGlProject\OpenGlProject\openGlProject.cpp(282,32): warning C4244:         ]
+  OpenGlProject.vcxproj -> E:\Graphics\OpenGlProject\x64\Debug\OpenGlProject.exe
