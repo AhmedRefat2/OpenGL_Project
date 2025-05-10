@@ -1,4 +1,4 @@
-📘 3D Cube with Transformation Toggles using OpenGL
+📘 3D Cube with Transformation Toggles using OpenGL :
 🔧 Overview
 
 This C++ program renders a 3D cube using OpenGL with support for applying various geometric transformations in real-time. It uses GLFW for window/context creation, GLAD for loading OpenGL functions, and GLM for mathematics.
